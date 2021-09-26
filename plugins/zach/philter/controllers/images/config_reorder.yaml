@@ -1,0 +1,4 @@
+title: Images
+modelClass: Zach\Philter\Models\Image
+toolbar:
+    buttons: reorder_toolbar

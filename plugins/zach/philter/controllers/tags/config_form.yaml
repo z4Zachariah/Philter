@@ -1,0 +1,10 @@
+name: Tags
+form: $/zach/philter/models/tag/fields.yaml
+modelClass: Zach\Philter\Models\Tag
+defaultRedirect: zach/philter/tags
+create:
+    redirect: 'zach/philter/tags/update/:id'
+    redirectClose: zach/philter/tags
+update:
+    redirect: zach/philter/tags
+    redirectClose: zach/philter/tags

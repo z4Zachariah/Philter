@@ -1,0 +1,4 @@
+title: Tags
+modelClass: Zach\Philter\Models\Tag
+toolbar:
+    buttons: reorder_toolbar

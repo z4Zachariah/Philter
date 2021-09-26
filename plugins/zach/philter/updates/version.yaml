@@ -1,0 +1,32 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table zach_philter_image'
+    - builder_table_create_zach_philter_image.php
+1.0.3:
+    - 'Created table zach_philter_tag'
+    - builder_table_create_zach_philter_tag.php
+1.0.4:
+    - 'Updated table zach_philter_image'
+    - builder_table_update_zach_philter_image.php
+1.0.5:
+    - 'Created table zach_philter_image_tag'
+    - builder_table_create_zach_philter_image_tag.php
+1.0.6:
+    - 'Updated table zach_philter_image_tag'
+    - builder_table_update_zach_philter_image_tag.php
+1.0.7:
+    - 'Updated table zach_philter_image'
+    - builder_table_update_zach_philter_image_2.php
+1.0.8:
+    - 'Updated table zach_philter_tag'
+    - builder_table_update_zach_philter_tag.php
+1.0.9:
+    - 'Updated table zach_philter_tag'
+    - builder_table_update_zach_philter_tag_2.php
+1.0.10:
+    - 'Updated table zach_philter_image_tag'
+    - builder_table_update_zach_philter_image_tag_2.php
+1.0.11:
+    - 'Updated table zach_philter_image_tag'
+    - builder_table_update_zach_philter_image_tag_3.php

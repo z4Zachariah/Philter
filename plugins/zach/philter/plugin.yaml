@@ -1,0 +1,15 @@
+plugin:
+    name: 'zach.philter::lang.plugin.name'
+    description: 'zach.philter::lang.plugin.description'
+    author: Zach
+    icon: oc-icon-image
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Images
+        url: zach/philter/images
+        icon: icon-photo
+    main-menu-item2:
+        label: Tags
+        url: zach/philter/tags
+        icon: icon-quote-left

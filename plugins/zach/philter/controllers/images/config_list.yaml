@@ -1,0 +1,12 @@
+list: $/zach/philter/models/image/columns.yaml
+modelClass: Zach\Philter\Models\Image
+title: Images
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'zach/philter/images/update/:id'

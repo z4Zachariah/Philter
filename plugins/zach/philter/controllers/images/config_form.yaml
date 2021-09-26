@@ -1,0 +1,10 @@
+name: Images
+form: $/zach/philter/models/image/fields.yaml
+modelClass: Zach\Philter\Models\Image
+defaultRedirect: zach/philter/images
+create:
+    redirect: 'zach/philter/images/update/:id'
+    redirectClose: zach/philter/images
+update:
+    redirect: zach/philter/images
+    redirectClose: zach/philter/images
