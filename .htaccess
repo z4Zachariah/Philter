@@ -58,8 +58,9 @@
 	
 	#
 	#Adding these lines as per instruction in Module 6 gives an internal server error (500)
+	#Instead I've used the CORS offline plugin through October
 	#RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
-    #Header add Access-Control-Allow-Origin "*"
+    #Header add Access-Control-Allow-Origin "http://bit703.module6/"
     #Header add Access-Control-Allow-Credentials: true
     #Header add Access-Control-Expose-Headers: "Authorization"
     #Header add Access-Control-Allow-Headers: "Authorization"

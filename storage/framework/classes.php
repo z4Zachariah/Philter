@@ -74,4 +74,10 @@
   'RainLab\\User\\Models\\Throttle' => 'plugins\\rainlab\\user\\models\\Throttle.php',
   'zach\\philter\\Controllers\\tags' => 'plugins\\zach\\philter\\controllers\\tags.php',
   'Zach\\Philter\\Models\\Tag' => 'plugins\\zach\\philter\\models\\Tag.php',
+  'backend\\Controllers\\media' => 'modules\\backend\\controllers\\media.php',
+  'offline\\cors\\Plugin' => 'plugins\\offline\\cors\\Plugin.php',
+  'OFFLINE\\CORS\\Classes\\ServiceProvider' => 'plugins\\offline\\cors\\classes\\ServiceProvider.php',
+  'OFFLINE\\CORS\\Classes\\HandleCors' => 'plugins\\offline\\cors\\classes\\HandleCors.php',
+  'OFFLINE\\CORS\\Classes\\CorsService' => 'plugins\\offline\\cors\\classes\\CorsService.php',
+  'OFFLINE\\CORS\\Models\\Settings' => 'plugins\\offline\\cors\\models\\Settings.php',
 );
