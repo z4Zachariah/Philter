@@ -13,7 +13,7 @@ Route::post('api/v1/login', function() use($api) {
     return $api->login();
 });
 
-Route::post('api/v1/users/', function() use ($api) {
+Route::post('api/v1/users/add', function() use ($api) {
     return $api->registerUser();
 });
 
@@ -45,7 +45,7 @@ Route::get('api/v1/images/user', function() use ($api) {
     return $api->getUserImages();
 });
 
-Route::post('api/v1/images', function() use ($api) {
+Route::post('api/v1/image/add', function() use ($api) {
     return $api->addImage();
 });
 

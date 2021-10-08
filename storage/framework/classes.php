@@ -80,4 +80,6 @@
   'OFFLINE\\CORS\\Classes\\HandleCors' => 'plugins\\offline\\cors\\classes\\HandleCors.php',
   'OFFLINE\\CORS\\Classes\\CorsService' => 'plugins\\offline\\cors\\classes\\CorsService.php',
   'OFFLINE\\CORS\\Models\\Settings' => 'plugins\\offline\\cors\\models\\Settings.php',
+  'Zach\\Philter\\Classes\\JWTAuth' => 'plugins\\zach\\philter\\classes\\JWTAuth.php',
+  'Zach\\Philter\\Classes\\JWT' => 'plugins\\zach\\philter\\classes\\JWT.php',
 );
